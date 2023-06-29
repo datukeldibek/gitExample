@@ -10,3 +10,7 @@ import Foundation
 print("Hello, World!")
 
 print("dfasgffg")
+
+class Preson {
+    
+}
