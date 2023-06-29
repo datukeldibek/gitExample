@@ -16,4 +16,10 @@ class Preson {
 }
 
 
+<<<<<<< HEAD
 print("hello world")
+=======
+class Human {
+    
+}
+>>>>>>> de2f0d5... human class
