@@ -14,3 +14,6 @@ print("dfasgffg")
 class Preson {
     var name: String = "hello"
 }
+
+
+print("hello world")
