@@ -12,5 +12,5 @@ print("Hello, World!")
 print("dfasgffg")
 
 class Preson {
-    
+    var name: String = "hello"
 }
